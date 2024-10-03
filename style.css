@@ -30,3 +30,13 @@ th, td {
 }
 
 /* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
+
+div.topnav {
+    background-color: #ff0000;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    ;
+}

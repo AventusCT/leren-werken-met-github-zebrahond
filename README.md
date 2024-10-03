@@ -2,7 +2,7 @@
 
 # projectnaam: leren werken met github
 
-# beschijving 
+## beschijving: het is een project waar je leert werken met github
 het is een project waar je leert werken met github
 het is een project waar je leert werken met github
 
